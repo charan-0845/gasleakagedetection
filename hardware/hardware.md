@@ -12,12 +12,12 @@
 ---
 
 ## 🖼️ System Workflow
-![System Diagram](Hardware/GASDET.png)
+![System Diagram](hardware/GASDET.png)
 
 ---
 
 ## 📸 Hardware Setup
-![Hardware Setup](Hardware/circuit_photo.jpg)
+![Hardware Setup](hardware/WhatsApp Image 2025-06-16 at 22.15.30_81c8547c.jpg)
 
 ---
 
