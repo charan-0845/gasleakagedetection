@@ -84,11 +84,7 @@ The system monitors gas levels continuously and responds based on thresholds:
 
 ---
 
-## 📸 Project Demo
 
-(Add screenshots / photos of your hardware + Telegram alerts here)
-
----
 
 ## 👨‍💻 Team Members
 - Charan 
