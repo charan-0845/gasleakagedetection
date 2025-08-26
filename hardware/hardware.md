@@ -17,21 +17,21 @@
 ---
 
 ## 📸 Hardware Setup
-![Hardware Setup](hardware/WhatsApp Image 2025-06-16 at 22.15.30_81c8547c.jpg)
+![Hardware Setup](hardware/circuit.jpg)
 
 ---
 
 ## ☁️ Firebase Integration
 The system pushes alerts and location links to Firebase:  
 
-![Firebase Screenshot](Hardware/firebase_screenshot.png)
+![Firebase Screenshot](Hardware/firebase.png)
 
 ---
 
 ## 💬 Telegram Alerts
 Gas Guard bot sends real-time alerts to users:  
 
-![Telegram Alerts](Hardware/telegram_alerts.jpg)
+![Telegram Alerts](Hardware/telegram.jpg)
 
 ---
 
