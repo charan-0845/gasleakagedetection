@@ -12,26 +12,26 @@
 ---
 
 ## 🖼️ System Workflow
-![System Diagram](hardware/GASDET.png)
+![System Diagram](GASDET.png)
 
 ---
 
 ## 📸 Hardware Setup
-![Hardware Setup](hardware/circuit.jpg)
+![Hardware Setup](circuit.jpg)
 
 ---
 
 ## ☁️ Firebase Integration
 The system pushes alerts and location links to Firebase:  
 
-![Firebase Screenshot](Hardware/firebase.png)
+![Firebase Screenshot](firebase.png)
 
 ---
 
 ## 💬 Telegram Alerts
 Gas Guard bot sends real-time alerts to users:  
 
-![Telegram Alerts](Hardware/telegram.jpg)
+![Telegram Alerts](telegram.jpg)
 
 ---
 
@@ -56,10 +56,7 @@ Gas Guard bot sends real-time alerts to users:
 
 ---
 
-## 🎥 Demo
-🔗 [Add YouTube/Drive link here]  
 
----
 
 ## 📜 License
 This project is licensed under the **MIT License** - feel free to use and modify.  
@@ -67,4 +64,4 @@ This project is licensed under the **MIT License** - feel free to use and modify
 ---
 
 ## 👨‍💻 Author
-Developed by **Charan Reddy** (CSE - AIML) 🚀  
+Developed by **B CHARAN TEJA GOUD** (CSE - AIML) 🚀  
