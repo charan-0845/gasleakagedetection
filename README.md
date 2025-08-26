@@ -77,9 +77,9 @@ The system monitors gas levels continuously and responds based on thresholds:
 
 ## 🚀 Setup & Usage
 
-1. Flash the ESP32 with the code in [`firmware/`](firmware/).  
+1. Flash the ESP32 with the code in [`gldfinal.ino/`](gldfinal.ino/).  
 2. Configure WiFi and Firebase credentials.  
-3. Connect hardware as per [`hardware/circuit_diagram.png`](hardware/circuit_diagram.png).  
+3. Connect hardware as per code and gpio.  
 4. Run system – monitor via LCD, Telegram, and Firebase.
 
 ---
