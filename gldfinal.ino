@@ -10,13 +10,13 @@
 // **WiFi and Firebase Credentials**
 const char* ssid = "KSR";     
 const char* password = "12345678";
-#define FIREBASE_HOST "https://gasleakagedetection-2025-default-rtdb.firebaseio.com"
+#define FIREBASE_HOST "https://#######.firebaseio.com"
 #define FIREBASE_PATH "/alerts.json"
-#define FIREBASE_AUTH "YTR3LJtOtT2TLtII9LFtw4CXkvIhOFBusZQISt3f"
+#define FIREBASE_AUTH "######"
 
 // **Telegram Bot Credentials**
-const char* botToken = "7143986127:AAHGVFZ8DD3adkpm2-iEMighbInxzRt0Fl0";
-const char* chatID = "7344101566";
+const char* botToken = "7#####";
+const char* chatID = "#####";
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(botToken, client);
